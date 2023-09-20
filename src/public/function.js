@@ -1,3 +1,4 @@
+"use strict";
 function Cals(a, b) {
     return b ? a + b : a;
 }
